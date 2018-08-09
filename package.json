@@ -1,0 +1,19 @@
+{
+  "name": "primo-explore-featured-results",
+  "version": "0.0.1",
+  "description": "Customize featured results",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCLibraries/primo-explore-featured-results.git"
+  },
+  "keywords": [
+    "primo"
+  ],
+  "author": "Luke Gaudreau",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BCLibraries/primo-explore-featured-results/issues"
+  },
+  "homepage": "https://github.com/BCLibraries/primo-featured-results#readme"
+}
